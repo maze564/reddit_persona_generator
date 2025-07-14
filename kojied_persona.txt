@@ -1,0 +1,42 @@
+ User Persona:
+Name: Alex (Pseudonym)
+Age: around 30 years old
+Gender: Male
+Occupation: iOS Developer working on VisionOS projects
+Location: New York City, NY (USA)
+
+Characteristics:
+- Tech-savvy and forward-thinking
+- Strong interest in new technology, particularly spatial computing, AR/VR, and AI
+- Passionate about staying informed on the latest developments in these fields
+- A bit of a workaholic, regularly trying to port his workflow onto the latest tech devices like the Apple Vision Pro
+
+Interests:
+- Technology, specifically AR/VR, AI, and spatial computing
+- Gaming, with a preference for open-world survival games like Project Zomboid
+- Environmental causes and sustainability
+- Food and cuisine, with specific interest in Tokyo street food and vegan options
+
+Values:
+- Sustainability and intentional living (as evidenced by his interest in tracking the "gratification" he receives from purchases and considering the environmental impact of companies)
+- Individual freedom and autonomy (he's transient, living in New York City, and isn't judgmental of others enjoying the city in their own way)
+- Innovation and progress (his active participation in various tech communities online)
+
+Tone:
+- Rational and analytical when discussing tech and sustainability
+- Passionate about technology and its potential
+- Concerned about the current state of the world and the impacts of human actions on the environment
+- Casual and humorous when discussing non-serious topics, such as food and gaming
+
+Habits:
+- Regularly engages with tech communities online, including Reddit
+- Keeps up to date with the latest developments in AR/VR, AI, and spatial computing
+- Tracks his "gratification" from purchases and considers the environmental impact of companies
+- Enjoys street food and exploring new cuisines, particularly in Tokyo
+- Plays Project Zomboid and other survival games in his free time
+
+Demographic guesses (based on available information):
+- Upper-middle-class based on the large sums of money mentioned in posts (e.g., transferring $50,000 from Robinhood, spending money on tech devices, traveling to Japan for food)
+- College educated based on his tech career and participation in tech communities (although he does not explicitly state his education level)
+- Potentially single or without children, based on his ability to travel freely and the lack of mentions of family in posts
+- Likely male based on the demographics of tech and gaming communities, although this cannot be confirmed definitively.
