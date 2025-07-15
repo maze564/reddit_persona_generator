@@ -9,7 +9,7 @@ REDDIT_SECRET = ""
 REDDIT_USER_AGENT = " for example cilent id"
 
 # === OpenRouter API Key ===
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY =" cant display due to privacy reason"
 MODEL = "mistralai/mistral-7b-instruct" 
 
 # === Initialize Reddit API ===
